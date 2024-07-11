@@ -1,0 +1,876 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Navigation component Navigation snapshot 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <nav
+        class="gap-md items-center lg:flex hidden"
+      >
+        <div
+          class="animation-fade-y animation-delay-1"
+        >
+          <a
+            class="text-[14px] md:text-[16px]"
+            href="https://github.com/tomahawwk/faraway-task"
+            target="_blank"
+          >
+            <div
+              class="animated-word"
+            >
+              <div
+                class="animated-word__wrapper"
+              >
+                <div
+                  class="animated-word__part animated-word__part--top"
+                >
+                  <span
+                    class="animated-word__letter"
+                    style="transition-delay: 0s;"
+                  >
+                    T
+                  </span>
+                  <span
+                    class="animated-word__letter"
+                    style="transition-delay: 0.015s;"
+                  >
+                    a
+                  </span>
+                  <span
+                    class="animated-word__letter"
+                    style="transition-delay: 0.03s;"
+                  >
+                    s
+                  </span>
+                  <span
+                    class="animated-word__letter"
+                    style="transition-delay: 0.045s;"
+                  >
+                    k
+                  </span>
+                  <span
+                    class="animated-word__letter"
+                    style="transition-delay: 0.06s;"
+                  >
+                     
+                  </span>
+                  <span
+                    class="animated-word__letter"
+                    style="transition-delay: 0.075s;"
+                  >
+                    G
+                  </span>
+                  <span
+                    class="animated-word__letter"
+                    style="transition-delay: 0.09s;"
+                  >
+                    i
+                  </span>
+                  <span
+                    class="animated-word__letter"
+                    style="transition-delay: 0.105s;"
+                  >
+                    t
+                  </span>
+                  <span
+                    class="animated-word__letter"
+                    style="transition-delay: 0.12s;"
+                  >
+                    h
+                  </span>
+                  <span
+                    class="animated-word__letter"
+                    style="transition-delay: 0.135s;"
+                  >
+                    u
+                  </span>
+                  <span
+                    class="animated-word__letter"
+                    style="transition-delay: 0.15s;"
+                  >
+                    b
+                  </span>
+                </div>
+                <div
+                  class="animated-word__part animated-word__part--bottom"
+                >
+                  <span
+                    class="animated-word__letter"
+                    style="transition-delay: 0s;"
+                  >
+                    T
+                  </span>
+                  <span
+                    class="animated-word__letter"
+                    style="transition-delay: 0.015s;"
+                  >
+                    a
+                  </span>
+                  <span
+                    class="animated-word__letter"
+                    style="transition-delay: 0.03s;"
+                  >
+                    s
+                  </span>
+                  <span
+                    class="animated-word__letter"
+                    style="transition-delay: 0.045s;"
+                  >
+                    k
+                  </span>
+                  <span
+                    class="animated-word__letter"
+                    style="transition-delay: 0.06s;"
+                  >
+                     
+                  </span>
+                  <span
+                    class="animated-word__letter"
+                    style="transition-delay: 0.075s;"
+                  >
+                    G
+                  </span>
+                  <span
+                    class="animated-word__letter"
+                    style="transition-delay: 0.09s;"
+                  >
+                    i
+                  </span>
+                  <span
+                    class="animated-word__letter"
+                    style="transition-delay: 0.105s;"
+                  >
+                    t
+                  </span>
+                  <span
+                    class="animated-word__letter"
+                    style="transition-delay: 0.12s;"
+                  >
+                    h
+                  </span>
+                  <span
+                    class="animated-word__letter"
+                    style="transition-delay: 0.135s;"
+                  >
+                    u
+                  </span>
+                  <span
+                    class="animated-word__letter"
+                    style="transition-delay: 0.15s;"
+                  >
+                    b
+                  </span>
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+        <div
+          class="animation-fade-y animation-delay-2"
+        >
+          <a
+            class="text-[14px] md:text-[16px]"
+            href="https://www.linkedin.com/in/egor-stulenkov-29867523a/"
+            target="_blank"
+          >
+            <div
+              class="animated-word"
+            >
+              <div
+                class="animated-word__wrapper"
+              >
+                <div
+                  class="animated-word__part animated-word__part--top"
+                >
+                  <span
+                    class="animated-word__letter"
+                    style="transition-delay: 0s;"
+                  >
+                    L
+                  </span>
+                  <span
+                    class="animated-word__letter"
+                    style="transition-delay: 0.015s;"
+                  >
+                    i
+                  </span>
+                  <span
+                    class="animated-word__letter"
+                    style="transition-delay: 0.03s;"
+                  >
+                    n
+                  </span>
+                  <span
+                    class="animated-word__letter"
+                    style="transition-delay: 0.045s;"
+                  >
+                    k
+                  </span>
+                  <span
+                    class="animated-word__letter"
+                    style="transition-delay: 0.06s;"
+                  >
+                    e
+                  </span>
+                  <span
+                    class="animated-word__letter"
+                    style="transition-delay: 0.075s;"
+                  >
+                    d
+                  </span>
+                  <span
+                    class="animated-word__letter"
+                    style="transition-delay: 0.09s;"
+                  >
+                    I
+                  </span>
+                  <span
+                    class="animated-word__letter"
+                    style="transition-delay: 0.105s;"
+                  >
+                    n
+                  </span>
+                </div>
+                <div
+                  class="animated-word__part animated-word__part--bottom"
+                >
+                  <span
+                    class="animated-word__letter"
+                    style="transition-delay: 0s;"
+                  >
+                    L
+                  </span>
+                  <span
+                    class="animated-word__letter"
+                    style="transition-delay: 0.015s;"
+                  >
+                    i
+                  </span>
+                  <span
+                    class="animated-word__letter"
+                    style="transition-delay: 0.03s;"
+                  >
+                    n
+                  </span>
+                  <span
+                    class="animated-word__letter"
+                    style="transition-delay: 0.045s;"
+                  >
+                    k
+                  </span>
+                  <span
+                    class="animated-word__letter"
+                    style="transition-delay: 0.06s;"
+                  >
+                    e
+                  </span>
+                  <span
+                    class="animated-word__letter"
+                    style="transition-delay: 0.075s;"
+                  >
+                    d
+                  </span>
+                  <span
+                    class="animated-word__letter"
+                    style="transition-delay: 0.09s;"
+                  >
+                    I
+                  </span>
+                  <span
+                    class="animated-word__letter"
+                    style="transition-delay: 0.105s;"
+                  >
+                    n
+                  </span>
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+        <div
+          class="animation-fade-y animation-delay-3"
+        >
+          <a
+            class="text-[14px] md:text-[16px]"
+            href="https://t.me/tom_ahawk"
+            target="_blank"
+          >
+            <div
+              class="animated-word"
+            >
+              <div
+                class="animated-word__wrapper"
+              >
+                <div
+                  class="animated-word__part animated-word__part--top"
+                >
+                  <span
+                    class="animated-word__letter"
+                    style="transition-delay: 0s;"
+                  >
+                    T
+                  </span>
+                  <span
+                    class="animated-word__letter"
+                    style="transition-delay: 0.015s;"
+                  >
+                    e
+                  </span>
+                  <span
+                    class="animated-word__letter"
+                    style="transition-delay: 0.03s;"
+                  >
+                    l
+                  </span>
+                  <span
+                    class="animated-word__letter"
+                    style="transition-delay: 0.045s;"
+                  >
+                    e
+                  </span>
+                  <span
+                    class="animated-word__letter"
+                    style="transition-delay: 0.06s;"
+                  >
+                    g
+                  </span>
+                  <span
+                    class="animated-word__letter"
+                    style="transition-delay: 0.075s;"
+                  >
+                    r
+                  </span>
+                  <span
+                    class="animated-word__letter"
+                    style="transition-delay: 0.09s;"
+                  >
+                    a
+                  </span>
+                  <span
+                    class="animated-word__letter"
+                    style="transition-delay: 0.105s;"
+                  >
+                    m
+                  </span>
+                </div>
+                <div
+                  class="animated-word__part animated-word__part--bottom"
+                >
+                  <span
+                    class="animated-word__letter"
+                    style="transition-delay: 0s;"
+                  >
+                    T
+                  </span>
+                  <span
+                    class="animated-word__letter"
+                    style="transition-delay: 0.015s;"
+                  >
+                    e
+                  </span>
+                  <span
+                    class="animated-word__letter"
+                    style="transition-delay: 0.03s;"
+                  >
+                    l
+                  </span>
+                  <span
+                    class="animated-word__letter"
+                    style="transition-delay: 0.045s;"
+                  >
+                    e
+                  </span>
+                  <span
+                    class="animated-word__letter"
+                    style="transition-delay: 0.06s;"
+                  >
+                    g
+                  </span>
+                  <span
+                    class="animated-word__letter"
+                    style="transition-delay: 0.075s;"
+                  >
+                    r
+                  </span>
+                  <span
+                    class="animated-word__letter"
+                    style="transition-delay: 0.09s;"
+                  >
+                    a
+                  </span>
+                  <span
+                    class="animated-word__letter"
+                    style="transition-delay: 0.105s;"
+                  >
+                    m
+                  </span>
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+      </nav>
+    </div>
+  </body>,
+  "container": <div>
+    <nav
+      class="gap-md items-center lg:flex hidden"
+    >
+      <div
+        class="animation-fade-y animation-delay-1"
+      >
+        <a
+          class="text-[14px] md:text-[16px]"
+          href="https://github.com/tomahawwk/faraway-task"
+          target="_blank"
+        >
+          <div
+            class="animated-word"
+          >
+            <div
+              class="animated-word__wrapper"
+            >
+              <div
+                class="animated-word__part animated-word__part--top"
+              >
+                <span
+                  class="animated-word__letter"
+                  style="transition-delay: 0s;"
+                >
+                  T
+                </span>
+                <span
+                  class="animated-word__letter"
+                  style="transition-delay: 0.015s;"
+                >
+                  a
+                </span>
+                <span
+                  class="animated-word__letter"
+                  style="transition-delay: 0.03s;"
+                >
+                  s
+                </span>
+                <span
+                  class="animated-word__letter"
+                  style="transition-delay: 0.045s;"
+                >
+                  k
+                </span>
+                <span
+                  class="animated-word__letter"
+                  style="transition-delay: 0.06s;"
+                >
+                   
+                </span>
+                <span
+                  class="animated-word__letter"
+                  style="transition-delay: 0.075s;"
+                >
+                  G
+                </span>
+                <span
+                  class="animated-word__letter"
+                  style="transition-delay: 0.09s;"
+                >
+                  i
+                </span>
+                <span
+                  class="animated-word__letter"
+                  style="transition-delay: 0.105s;"
+                >
+                  t
+                </span>
+                <span
+                  class="animated-word__letter"
+                  style="transition-delay: 0.12s;"
+                >
+                  h
+                </span>
+                <span
+                  class="animated-word__letter"
+                  style="transition-delay: 0.135s;"
+                >
+                  u
+                </span>
+                <span
+                  class="animated-word__letter"
+                  style="transition-delay: 0.15s;"
+                >
+                  b
+                </span>
+              </div>
+              <div
+                class="animated-word__part animated-word__part--bottom"
+              >
+                <span
+                  class="animated-word__letter"
+                  style="transition-delay: 0s;"
+                >
+                  T
+                </span>
+                <span
+                  class="animated-word__letter"
+                  style="transition-delay: 0.015s;"
+                >
+                  a
+                </span>
+                <span
+                  class="animated-word__letter"
+                  style="transition-delay: 0.03s;"
+                >
+                  s
+                </span>
+                <span
+                  class="animated-word__letter"
+                  style="transition-delay: 0.045s;"
+                >
+                  k
+                </span>
+                <span
+                  class="animated-word__letter"
+                  style="transition-delay: 0.06s;"
+                >
+                   
+                </span>
+                <span
+                  class="animated-word__letter"
+                  style="transition-delay: 0.075s;"
+                >
+                  G
+                </span>
+                <span
+                  class="animated-word__letter"
+                  style="transition-delay: 0.09s;"
+                >
+                  i
+                </span>
+                <span
+                  class="animated-word__letter"
+                  style="transition-delay: 0.105s;"
+                >
+                  t
+                </span>
+                <span
+                  class="animated-word__letter"
+                  style="transition-delay: 0.12s;"
+                >
+                  h
+                </span>
+                <span
+                  class="animated-word__letter"
+                  style="transition-delay: 0.135s;"
+                >
+                  u
+                </span>
+                <span
+                  class="animated-word__letter"
+                  style="transition-delay: 0.15s;"
+                >
+                  b
+                </span>
+              </div>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div
+        class="animation-fade-y animation-delay-2"
+      >
+        <a
+          class="text-[14px] md:text-[16px]"
+          href="https://www.linkedin.com/in/egor-stulenkov-29867523a/"
+          target="_blank"
+        >
+          <div
+            class="animated-word"
+          >
+            <div
+              class="animated-word__wrapper"
+            >
+              <div
+                class="animated-word__part animated-word__part--top"
+              >
+                <span
+                  class="animated-word__letter"
+                  style="transition-delay: 0s;"
+                >
+                  L
+                </span>
+                <span
+                  class="animated-word__letter"
+                  style="transition-delay: 0.015s;"
+                >
+                  i
+                </span>
+                <span
+                  class="animated-word__letter"
+                  style="transition-delay: 0.03s;"
+                >
+                  n
+                </span>
+                <span
+                  class="animated-word__letter"
+                  style="transition-delay: 0.045s;"
+                >
+                  k
+                </span>
+                <span
+                  class="animated-word__letter"
+                  style="transition-delay: 0.06s;"
+                >
+                  e
+                </span>
+                <span
+                  class="animated-word__letter"
+                  style="transition-delay: 0.075s;"
+                >
+                  d
+                </span>
+                <span
+                  class="animated-word__letter"
+                  style="transition-delay: 0.09s;"
+                >
+                  I
+                </span>
+                <span
+                  class="animated-word__letter"
+                  style="transition-delay: 0.105s;"
+                >
+                  n
+                </span>
+              </div>
+              <div
+                class="animated-word__part animated-word__part--bottom"
+              >
+                <span
+                  class="animated-word__letter"
+                  style="transition-delay: 0s;"
+                >
+                  L
+                </span>
+                <span
+                  class="animated-word__letter"
+                  style="transition-delay: 0.015s;"
+                >
+                  i
+                </span>
+                <span
+                  class="animated-word__letter"
+                  style="transition-delay: 0.03s;"
+                >
+                  n
+                </span>
+                <span
+                  class="animated-word__letter"
+                  style="transition-delay: 0.045s;"
+                >
+                  k
+                </span>
+                <span
+                  class="animated-word__letter"
+                  style="transition-delay: 0.06s;"
+                >
+                  e
+                </span>
+                <span
+                  class="animated-word__letter"
+                  style="transition-delay: 0.075s;"
+                >
+                  d
+                </span>
+                <span
+                  class="animated-word__letter"
+                  style="transition-delay: 0.09s;"
+                >
+                  I
+                </span>
+                <span
+                  class="animated-word__letter"
+                  style="transition-delay: 0.105s;"
+                >
+                  n
+                </span>
+              </div>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div
+        class="animation-fade-y animation-delay-3"
+      >
+        <a
+          class="text-[14px] md:text-[16px]"
+          href="https://t.me/tom_ahawk"
+          target="_blank"
+        >
+          <div
+            class="animated-word"
+          >
+            <div
+              class="animated-word__wrapper"
+            >
+              <div
+                class="animated-word__part animated-word__part--top"
+              >
+                <span
+                  class="animated-word__letter"
+                  style="transition-delay: 0s;"
+                >
+                  T
+                </span>
+                <span
+                  class="animated-word__letter"
+                  style="transition-delay: 0.015s;"
+                >
+                  e
+                </span>
+                <span
+                  class="animated-word__letter"
+                  style="transition-delay: 0.03s;"
+                >
+                  l
+                </span>
+                <span
+                  class="animated-word__letter"
+                  style="transition-delay: 0.045s;"
+                >
+                  e
+                </span>
+                <span
+                  class="animated-word__letter"
+                  style="transition-delay: 0.06s;"
+                >
+                  g
+                </span>
+                <span
+                  class="animated-word__letter"
+                  style="transition-delay: 0.075s;"
+                >
+                  r
+                </span>
+                <span
+                  class="animated-word__letter"
+                  style="transition-delay: 0.09s;"
+                >
+                  a
+                </span>
+                <span
+                  class="animated-word__letter"
+                  style="transition-delay: 0.105s;"
+                >
+                  m
+                </span>
+              </div>
+              <div
+                class="animated-word__part animated-word__part--bottom"
+              >
+                <span
+                  class="animated-word__letter"
+                  style="transition-delay: 0s;"
+                >
+                  T
+                </span>
+                <span
+                  class="animated-word__letter"
+                  style="transition-delay: 0.015s;"
+                >
+                  e
+                </span>
+                <span
+                  class="animated-word__letter"
+                  style="transition-delay: 0.03s;"
+                >
+                  l
+                </span>
+                <span
+                  class="animated-word__letter"
+                  style="transition-delay: 0.045s;"
+                >
+                  e
+                </span>
+                <span
+                  class="animated-word__letter"
+                  style="transition-delay: 0.06s;"
+                >
+                  g
+                </span>
+                <span
+                  class="animated-word__letter"
+                  style="transition-delay: 0.075s;"
+                >
+                  r
+                </span>
+                <span
+                  class="animated-word__letter"
+                  style="transition-delay: 0.09s;"
+                >
+                  a
+                </span>
+                <span
+                  class="animated-word__letter"
+                  style="transition-delay: 0.105s;"
+                >
+                  m
+                </span>
+              </div>
+            </div>
+          </div>
+        </a>
+      </div>
+    </nav>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

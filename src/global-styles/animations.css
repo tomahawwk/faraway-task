@@ -1,0 +1,67 @@
+.animation-fade-y {
+  animation: fadeY 0.5s forwards;
+  transform: translateY(15px);
+  opacity: 0;
+  @apply ease-cubic;
+}
+
+.animation-scale {
+  animation: scale 0.6s forwards;
+  transform: scale(0.9);
+  opacity: 0;
+  @apply ease-cubic;
+}
+
+.animation-scale-x {
+  animation: scaleX 0.6s forwards;
+  transform: scaleX(0);
+  transform-origin: left;
+  @apply ease-cubic;
+}
+
+.animation-logo {
+  animation: logo 0.5s forwards;
+  @apply ease-cubic;
+}
+
+@keyframes logo {
+  from {
+    transform: translateY(10px) scale(0.8) rotate(-45deg);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0) scale(1) rotate(0);
+    opacity: 1;
+  }
+}
+
+@keyframes fadeY {
+  from {
+    transform: translateY(15px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+@keyframes scale {
+  from {
+    transform: scale(0.9);
+    opacity: 0;
+  }
+  to {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+@keyframes scaleX {
+  from {
+    transform: scaleX(0);
+  }
+  to {
+    transform: scaleX(1);
+  }
+}

@@ -1,0 +1,158 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card component Card snapshot 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <a
+        class="p-sm grid w-full h-[250px] gap-sm rounded-sm bg-secondary-dark duration-300
+ group hover:scale-[1.04] hover:bg-secondary-main"
+        href="/"
+      >
+        <div
+          class="flex flex-col gap-xs will-change-transform justify-between"
+        >
+          <div
+            class="flex items-center gap-xs"
+          >
+            <div
+              class="w-[40px] h-[40px] rounded-full bg-grey relative"
+            >
+              <span
+                class=" lazy-load-image-background blur"
+                style="color: transparent; display: inline-block;"
+              >
+                <img
+                  class="absolute top-0 bottom-0 left-0 right-0 m-auto w-[24px]"
+                  src="images/user.png"
+                />
+              </span>
+            </div>
+            <div
+              class="text-[20px] font-medium leading-6 line-clamp-1"
+            >
+              Test Character
+            </div>
+          </div>
+          <div
+            class="flex pb-xs relative"
+          >
+            <div>
+              <img
+                alt="Explore more"
+                class="w-[50px] opacity-50 duration-300 group-hover:opacity-100 will-change-transform"
+                src="images/saber.png"
+              />
+              <span
+                class="absolute left-[50px] top-[2px] h-[4px] w-[100px] bg-primary-main rounded-[4px]
+ origin-left scale-x-0 duration-300 group-hover:scale-x-100"
+              />
+            </div>
+          </div>
+        </div>
+      </a>
+    </div>
+  </body>,
+  "container": <div>
+    <a
+      class="p-sm grid w-full h-[250px] gap-sm rounded-sm bg-secondary-dark duration-300
+ group hover:scale-[1.04] hover:bg-secondary-main"
+      href="/"
+    >
+      <div
+        class="flex flex-col gap-xs will-change-transform justify-between"
+      >
+        <div
+          class="flex items-center gap-xs"
+        >
+          <div
+            class="w-[40px] h-[40px] rounded-full bg-grey relative"
+          >
+            <span
+              class=" lazy-load-image-background blur"
+              style="color: transparent; display: inline-block;"
+            >
+              <img
+                class="absolute top-0 bottom-0 left-0 right-0 m-auto w-[24px]"
+                src="images/user.png"
+              />
+            </span>
+          </div>
+          <div
+            class="text-[20px] font-medium leading-6 line-clamp-1"
+          >
+            Test Character
+          </div>
+        </div>
+        <div
+          class="flex pb-xs relative"
+        >
+          <div>
+            <img
+              alt="Explore more"
+              class="w-[50px] opacity-50 duration-300 group-hover:opacity-100 will-change-transform"
+              src="images/saber.png"
+            />
+            <span
+              class="absolute left-[50px] top-[2px] h-[4px] w-[100px] bg-primary-main rounded-[4px]
+ origin-left scale-x-0 duration-300 group-hover:scale-x-100"
+            />
+          </div>
+        </div>
+      </div>
+    </a>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

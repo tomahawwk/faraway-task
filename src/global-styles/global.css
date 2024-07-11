@@ -1,0 +1,162 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'MarlinSans';
+  src: url('../../public/fonts/MarlinSans/MarlinSans-Light.otf')
+    format('opentype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'MarlinSans';
+  src: url('../../public/fonts/MarlinSans/MarlinSans-Regular.otf')
+    format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'MarlinSans';
+  src: url('../../public/fonts/MarlinSans/MarlinSans-Medium.otf')
+    format('opentype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@layer base {
+  body {
+    @apply h-screen text-white;
+    font-family: 'MarlinSans';
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background: black;
+    background-attachment: fixed;
+  }
+
+  .wrapper {
+    max-width: 1640px;
+    margin: 0 auto;
+    @apply px-sm sm:px-md md:px-lg lg:px-lg xl:px-xl;
+  }
+
+  ::-webkit-scrollbar {
+    display: none;
+  }
+
+  button:disabled {
+    opacity: 0.5;
+  }
+
+  body::-webkit-scrollbar {
+    width: 5px;
+    display: block;
+  }
+
+  body::-webkit-scrollbar-thumb {
+    @apply bg-primary-main;
+  }
+
+  /* skeleton Card */
+  .skeleton-card br {
+    display: none;
+  }
+
+  .skeleton-card > span {
+    display: grid;
+    grid-template-columns: 34px 1fr;
+  }
+
+  .skeleton-card .react-loading-skeleton:nth-of-type(1) {
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+  }
+
+  .skeleton-card .react-loading-skeleton:nth-of-type(2) {
+    height: 21px;
+    margin-top: 9px;
+    margin-bottom: 25px;
+    margin-left: 20px;
+    width: calc(100% - 20px);
+  }
+
+  .skeleton-card .react-loading-skeleton:nth-of-type(3),
+  .skeleton-card .react-loading-skeleton:nth-of-type(4),
+  .skeleton-card .react-loading-skeleton:nth-of-type(5),
+  .skeleton-card .react-loading-skeleton:nth-of-type(6) {
+    grid-column-start: 1;
+    grid-column-end: 3;
+    margin-bottom: 15px;
+    height: 21px;
+  }
+
+  .skeleton-card .react-loading-skeleton:nth-of-type(5) {
+    width: 80%;
+    margin-bottom: 45px;
+  }
+  .skeleton-card .react-loading-skeleton:nth-of-type(6) {
+    width: 60px;
+  }
+
+  .lazy-load-image-background.blur {
+    width: 100%;
+    height: 100%;
+    filter: blur(2px);
+  }
+
+  .custom-dropdown label {
+    letter-spacing: 0.03em;
+    font-size: 14px;
+    @apply text-black;
+  }
+
+  .custom-dropdown label.leading-tight {
+    font-size: 11px;
+  }
+
+  .custom-dropdown label:before {
+    border-top-width: 1px;
+    border-left-width: 1px;
+  }
+
+  .custom-dropdown label:after {
+    border-top-width: 1px;
+    border-right-width: 1px;
+  }
+
+  .custom-dropdown button {
+    border-width: 1px;
+  }
+
+  .search label {
+    font-size: 14px;
+  }
+}
+
+.animation-delay-1 {
+  animation-delay: 100ms;
+}
+.animation-delay-2 {
+  animation-delay: 200ms;
+}
+.animation-delay-3 {
+  animation-delay: 300ms;
+}
+.animation-delay-4 {
+  animation-delay: 400ms;
+}
+.animation-delay-5 {
+  animation-delay: 500ms;
+}
+.animation-delay-6 {
+  animation-delay: 600ms;
+}
+.animation-delay-7 {
+  animation-delay: 700ms;
+}
