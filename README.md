@@ -15,6 +15,9 @@ To run the app locally, follow these steps:
 3. Start the development server:
    npm start
 
+4. For run tests use:
+   npm test
+
 The app will be running at [http://localhost:3000](http://localhost:3000).
 
 ## Running the App in Docker

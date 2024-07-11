@@ -14,7 +14,9 @@ const Character = () => {
   const [localCharacter, setLocalCharacter] =
     useState<ICharacter>(initialCharacter);
 
-  const {character} = useAppSelector(state => state.characterReducer);
+  const {character, isLoading} = useAppSelector(
+    state => state.characterReducer,
+  );
   const dispatch = useAppDispatch();
 
   const handleInputChange = (
@@ -62,7 +64,7 @@ const Character = () => {
     };
   }, []);
 
-  if (localCharacter.name !== '')
+  if (!isLoading)
     return (
       <div className="grid gap-lg md:gap-xl">
         <h1 className="text-[28px] md:text-[72px] animation-fade-y animation-delay-2 grid gap-sm w-full">
